@@ -1,5 +1,9 @@
 # La_web_desde_cero_Aprende_Dise-or_Web_Con_HTML5_y_CSS3
 
+![image](https://github.com/user-attachments/assets/04ba4141-b565-47ef-9f9c-62a035983fbe)
+
+![image](https://github.com/user-attachments/assets/39bd94f6-48e5-4725-ac63-54c84803a381)
+
 ![image](https://github.com/user-attachments/assets/335eb225-3491-481b-9391-d55e3c2babe7)
 
 ![image](https://github.com/user-attachments/assets/33d1adff-97c8-4a36-a2cb-1d9b45427a8d)
